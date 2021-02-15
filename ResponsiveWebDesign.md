@@ -1,4 +1,4 @@
-﻿#Responsive Web Design
+#Responsive Web Design
 
 Responsive Websites are essentially platform independent. Whether the user is on a mobile phone, tablet or desktop computer, the user experience remains the same. This design is similar, but should not be mistaken for adaptive web design. Adaptive web sites are easily modifiable given specific parameters, while responsive websites continually adjust based on various factors like the size of the view port.The three main components of a responsive web design are flexible layouts, media queries and flexible media. 
 
