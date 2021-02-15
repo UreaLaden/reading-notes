@@ -21,11 +21,11 @@ Media Queries make it possible to specify specific styles for individual browser
 
 ``` css
 @media all and (max-width: 699px) and (min-width: 520px){
-	#sidebar u li a {
-		padding-left: 21px;
-		background : url(../images/email.png) left center no-repeat;
+	#sidebar u li a 
+	{
+	  padding-left: 21px;
+	  background : url(../images/email.png) left center no-repeat;}
 	}
-}
 ```
 
 While the size of the view port is between 520 and 699 pixels, the query uses the extra space to display graphics. Using logical operators like and, not and only, these media queries can be chained together for added effect.
@@ -35,9 +35,10 @@ While the size of the view port is between 520 and 699 pixels, the query uses th
 Flexible Media is the third major component of responsive design. Similar to flexible grids that adjust in size depending on the size of the view port, images, videos and other types of media need to be constantly adjust as well. This is accomplished using the `max-width` property.
 
 ``` css
-img, video, canvas{
-	max-width: 100%;
-}
+img, video, canvas
+	{
+	  max-width: 100%;
+	}
 ```
 
 For this to wok effectively, the embedded element must be absolutely position with a parent element that has a `width` of 100%. 
