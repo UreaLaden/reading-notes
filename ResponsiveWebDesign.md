@@ -7,7 +7,7 @@ Responsive Websites are essentially platform independent. Whether the user is on
 Flexible Layouts consist of grids capable dynamically resizing. These grids use relative length units such as percentages or em units, to declare property values like width, margin, or padding. To maintain flexibility across varying platforms, flexible layouts abstain from using fixed measurement units like pixels or inches. Resizing a column to about 340px can be easily attained using the following formula and block of code.
 
 target / context = result
-...css
+... css
 section {
 float:left;
 width: 63.197026% ; /* 340px ÷ 538px = .63197026 */
@@ -18,7 +18,7 @@ width: 63.197026% ; /* 340px ÷ 538px = .63197026 */
 
 Media Queries make it possible to specify specific styles for individual browsers and devices. For example content displayed on a view port with a width of 1024px will be different from that of a view port with a width of 700px. [Chris Coyier](https://css-tricks.com/css-media-queries/) provides an example of using media queries to determine when specific information and graphics are displayed.
 
-...css
+... css
 @media all and (max-width: 699px) and (min-width: 520px){
 	#sidebar u li a {
 		padding-left: 21px;
@@ -33,7 +33,7 @@ While the size of the view port is between 520 and 699 pixels, the query uses th
 
 Flexible Media is the third major component of responsive design. Similar to flexible grids that adjust in size depending on the size of the view port, images, videos and other types of media need to be constantly adjust as well. This is accomplished using the max-width property.
 
-...css
+... css
 img, video, canvas{
 	max-width: 100%;
 }
