@@ -14,6 +14,7 @@ float:left;
 width: 63.197026% ; /* 340px ÷ 538px = .63197026 */
 }
 ```
+Derived from [Shay Howes Introduction to Responsive Web Design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
 ## Media Queries
 
@@ -40,6 +41,6 @@ img, video, canvas
 	  max-width: 100%;
 	}
 ```
+Derived from [Chris Coyier's CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
 
-For this to wok effectively, the embedded element must be absolutely position with a parent element that has a `width` of 100%. 
-
+For this to work effectively, the embedded element must be absolutely position with a parent element that has a `width` of 100%. 
