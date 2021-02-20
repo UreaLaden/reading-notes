@@ -7,7 +7,11 @@ matches of a specific pattern or sequence. For example:
 `end$` - matches a string that ends with **end**
 `^The end$`- exact string match (starts and ends with **The end**)
 
+<<<<<<< HEAD
 ![alt text](/img/anchors.png)
+=======
+[alt text]('/home/urealaden/Documents/CodeFellows/Reading Assignments /reading-notes/anchors.png')
+>>>>>>> 4b6ba0b661ad8f3e330b2829e95db4aff9642bff
 
 
 
