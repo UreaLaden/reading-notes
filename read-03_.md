@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 [Home](README.md)
 
 # Reading Assignment - 03
+=======
+# Flex Box & Mustache
+>>>>>>> 196459aa712a99821d4a8cd950e4d4807e78bc5b
 
 ## Mustache
 
