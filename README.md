@@ -1,4 +1,4 @@
-# reading-notes
+# Notes
 
 ## This repository stores all my collection of observations and questions from reading assignments.
 
