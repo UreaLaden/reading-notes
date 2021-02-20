@@ -4,5 +4,7 @@
 
 
 (Pair Programming)[pair-programming.md]
+
 (Responsive Web Design)[ResponsiveWebDesign.md]
+
 (Regular Expressions)[rwd-regex-notes.md]
