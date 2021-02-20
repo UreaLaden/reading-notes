@@ -1,22 +1,15 @@
-# Javascript Templating Language and Engine - Mustache.js with Node and Express
-
-Sources:
- [Sherylynn Tan](https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
- [Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+# Reading Assignment - 03
 
 ## Mustache
-
 
  Mustache is a template syntax used in a wide array of projects. It is commonly referred to 
  as "logic-less" since there are no if/else statements or for loops required. The syntax
  uses tags that can pass values to be displayed in HTML. 
 
- ...
- 
+ ```  
  Mustache.render("Hello, {{name}}, {name: "Leaundrae});
  //returns: Hello, Sherlynn
- ...
-
+ ```
  The values we input are placeholders that Mustache uses to find the associated value. The placeholder
  in the example above is name that references the value "Leaundrae". 
 
@@ -54,3 +47,9 @@ Sources:
     - `center` - Centers items on the cross-axis
     - `baseline` - Items are aligned to reflect their baselines 
 - `align-content` - Similar to `justify-content`, this property aligns a flex containers lines within when there is extra space.
+
+
+## Sources:
+ [Sherylynn Tan](https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+ 
+ [Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
