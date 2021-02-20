@@ -67,4 +67,4 @@ You're also able to use the negation operator
 
 
 ### Source 
-(Jonny Fox - Regex tutorial - A quick cheatsheet by examples)[https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285]
+[Jonny Fox - Regex tutorial - A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
