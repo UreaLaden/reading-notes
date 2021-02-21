@@ -13,4 +13,4 @@
 
 [Deploying to Heroku](Articles/heroku-deployment.md)
 
-[Understandin Node.js](Articles/node.md)
+[Understanding Node.js](Articles/node.md)
