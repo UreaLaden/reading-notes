@@ -35,7 +35,7 @@ If we choose to put a name to the groups (using `(?<foo>..)`) we will be able to
 
 ## Bracket expressions - []
 
-[Bracket Expressions](../img/bracket_expressions)
+[Bracket Expressions](../img/bracket_expressions.png)
 
 ## Greedy and Lazy Match
 
