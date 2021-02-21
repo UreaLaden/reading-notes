@@ -10,3 +10,7 @@
 [Regular Expressions](Articles/rwd-regex-notes.md)
 
 [Flexbox & Mustache](Articles/read-03.md) 
+
+[Flexbox & Mustache](Articles/read-03.md) 
+
+[Deploying to Heroku](Articles/heroku-deployment.md)
