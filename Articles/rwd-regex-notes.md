@@ -1,5 +1,5 @@
 # Regex Notes 
-[Home](README.md)
+[Home](../README.md)
 
 Regular expressions commonly referred to as regex allow us to extract information from any text by searching for one or more matches of a specific pattern or sequence. For example:
 
