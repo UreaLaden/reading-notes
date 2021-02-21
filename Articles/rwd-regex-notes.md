@@ -35,7 +35,7 @@ If we choose to put a name to the groups (using `(?<foo>..)`) we will be able to
 
 ## Bracket expressions - []
 
-[Bracket Expressions](../img/bracket_expressions.png)
+![Bracket Expressions](../img/bracket_expressions.png)
 
 ## Greedy and Lazy Match
 
@@ -43,7 +43,7 @@ The quantifiers (* + {}) are greedy operators, so they expand the match as far a
 
 For example, `<.+>` matches `<div>simple</div>` in `This is a <div>simple div</div> test`. In order to catch only the `div` tag we can use a `?` to make it lazy: 
 
-[Lazy Match](../img/lazy.png)
+![Lazy Match](../img/lazy.png)
 
 ## Boundaries - \b and \B
 
