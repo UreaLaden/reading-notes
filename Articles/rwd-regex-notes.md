@@ -5,16 +5,16 @@ Regular expressions commonly referred to as regex allow us to extract informatio
 
 
 ## Anchors - ^and$
-![anchors](/img/anchors.png)
+![anchors](../img/anchors.png)
 
 ## Quantifiers - * + ? and {}
-![quantifier](/img/quantifiers.png)
+![quantifier](../img/quantifiers.png)
 
 ## OR operator - | or []
-![OR Operator](/img/OR_operator.png)
+![OR Operator](../img/OR_operator.png)
 
 ## Character classes -\d \s and
-![Character Classes](/img/Character_classes.png)
+![Character Classes](../img/Character_classes.png)
 
 In order for special characters to be taken literally, the characters `^.[$()|*+?{\` must be escaped with a backslash.
 
@@ -29,13 +29,13 @@ A regex usually come within the form `/abc/`, where the search pattern is delimi
 
 ## Grouping - ()
 
-![Groups](/img/grouping.png)
+![Groups](../img/grouping.png)
 
 If we choose to put a name to the groups (using `(?<foo>..)`) we will be able to retrieve the group values using the match result like a dictionary where the keys will be the name of each group. 
 
 ## Bracket expressions - []
 
-[Bracket Expressions](/img/bracket_expressions)
+[Bracket Expressions](../img/bracket_expressions)
 
 ## Greedy and Lazy Match
 
@@ -43,7 +43,7 @@ The quantifiers (* + {}) are greedy operators, so they expand the match as far a
 
 For example, `<.+>` matches `<div>simple</div>` in `This is a <div>simple div</div> test`. In order to catch only the `div` tag we can use a `?` to make it lazy: 
 
-[Lazy Match](/img/lazy.png)
+[Lazy Match](../img/lazy.png)
 
 ## Boundaries - \b and \B
 
