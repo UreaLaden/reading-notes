@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](reading-notes/README.md)
 
 # Heroku Notes
 
