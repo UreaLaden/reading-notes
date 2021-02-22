@@ -14,3 +14,5 @@
 [Deploying to Heroku](Articles/heroku-deployment.md)
 
 [Understanding Node.js](Articles/node.md)
+
+[REST](Articles/rest.md)
