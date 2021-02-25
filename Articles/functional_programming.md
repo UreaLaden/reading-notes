@@ -28,6 +28,8 @@ This pure function will always have the same output, given the same input. Passi
 
 `purefunctions + immutable data = referential transparency`
 
+##### Higher-order functions
+These take on or more functions as arguments, or return functions as a result. Examples are `filter`,`map`, and `reduce`. 
 
 
 ## Source: [TK: Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
