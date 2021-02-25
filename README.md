@@ -17,4 +17,4 @@
 
 [REST](Articles/rest.md)
 
-[Functional Programming](Article/functional_programming.md)
+[Functional Programming](Articles/functional_programming.md)
