@@ -16,3 +16,5 @@
 [Understanding Node.js](Articles/node.md)
 
 [REST](Articles/rest.md)
+
+[Functional Programming](Article/functional_programming.md)
