@@ -1,3 +1,4 @@
+[Home](../README.md)
 # Notes on SQL
 
 SQL stands for Structured Query Language and is is the de-factor standard for interacting with relational databases. It is a common misconception that the word relational implies relationship between tables. A relation is a mathematical term that is roughly equivalent to a table itself. When used in conjunction with the word database, we mean to say that this particular system arranges data in a tabular fashion.
