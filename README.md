@@ -18,3 +18,5 @@
 [REST](Articles/rest.md)
 
 [Functional Programming](Articles/functional_programming.md)
+
+[Structured Query Language](Articles/sql.md)
