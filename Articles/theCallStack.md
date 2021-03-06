@@ -1,4 +1,5 @@
 # The Call Stack
+[Home](../README.md)
 
 A **call stack** is a mechanism for an interpreter to keep track of its place in a script that calls multiple functions - what function is currently being run and what functions are called from within that function.
 
