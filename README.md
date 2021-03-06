@@ -24,3 +24,5 @@
 [The Call Stack](Articles/theCallStack.md)
 
 [EJS](Articles/ejs.md)
+
+[EJS Partials](Articles/ejs-partials.md)
