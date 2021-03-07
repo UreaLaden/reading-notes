@@ -26,3 +26,5 @@
 [EJS](Articles/ejs.md)
 
 [EJS Partials](Articles/ejs-partials.md)
+
+[Working with Forms](Articles/forms.md)
