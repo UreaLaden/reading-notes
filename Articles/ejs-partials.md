@@ -6,11 +6,11 @@ Partials allow you to reuse the same HTML across multiple views. They make large
 
 The <%- %> tags allow us to output the unescaped content onto the page (notice the -). This is important when using the include() statement since you don’t want EJS to escape your HTML characters like ‘<’, ‘>’, etc…
 
-[Partials 1](../img/partials_1.png)
+![Partials 1](../img/partials_1.png)
 
 Creating and including partials is very straightforward with EJS. 
 
-[Partials 2](../img/partials_2.png)
+![Partials 2](../img/partials_2.png)
 
 
 #### Source:
