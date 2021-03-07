@@ -1,5 +1,5 @@
 # Database Normalization
-[Home](./README.md)
+[Home](/README.md)
 
 #### Definition
 There are three common forms of database normalization: **1st**, **2nd**, and **3rd** normal form. They are also abbreviated as **1NF**, **2NF**, and **3NF** respectively. 
