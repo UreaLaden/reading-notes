@@ -1,6 +1,6 @@
 # Notes
 
-###### This repository stores collection of all my observations and questions from reading assignments.
+###### This repository stores collection of all my observations and concepts that I've come across throughout my studies.
 
 
 [Pair Programming](Articles/pair-programming.md)
