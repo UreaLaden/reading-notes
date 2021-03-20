@@ -1,7 +1,11 @@
-# Notes
+# Reading Notes
 
-###### This repository stores collection of all my observations and questions from reading assignments.
+###### This repository is a collection of my observations and questions from reading assignments while studying Software Development at Code Fellows.
 
+## Code 401 - Advanced Software Development 
+
+
+## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
 
