@@ -6,6 +6,8 @@
 
 [Java Basics - Branching Statements](Articles/java-basics.md)
 
+[Command Line Basics](Articles/commandLine.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
