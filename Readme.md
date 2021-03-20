@@ -4,7 +4,7 @@
 
 ## Code 401 - Advanced Software Development 
 
-[Java Basics - Branching Statements](Articles/java-basics.me)
+[Java Basics - Branching Statements](Articles/java-basics.md)
 
 ## Code 301 - Intermediate Software Development 
 
