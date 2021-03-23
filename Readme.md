@@ -10,6 +10,8 @@
 
 [Packages and Import](Articles/import.md)
 
+[Exceptions and Scanners](Articles/exceptions.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
