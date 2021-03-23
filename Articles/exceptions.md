@@ -1,4 +1,6 @@
 # Exceptions and Scanners
+[Home](../Readme.md)
+
 
 **Definition:** *An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions.*
 
@@ -72,3 +74,8 @@ public class ScanSum {
 1,000,000.1
 
 ```
+
+## Sources
+[What is an Exception?](https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html)
+
+[Scanning](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
