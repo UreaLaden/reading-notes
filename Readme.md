@@ -8,6 +8,8 @@
 
 [Command Line Basics](Articles/commandLine.md)
 
+[Packages and Import](Articles/import.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
