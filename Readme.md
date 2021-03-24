@@ -10,6 +10,8 @@
 
 [Packages and Import](Articles/import.md)
 
+[Exceptiopns and Scanners](Articles/exceptions.md)
+
 [Object Oriented Programming](Articles/oop-concepts.md)
 
 ## Code 301 - Intermediate Software Development 
