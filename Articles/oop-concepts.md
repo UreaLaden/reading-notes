@@ -1,5 +1,5 @@
 # Object-Oriented Programming Concepts
-##[Home](../Readme.md)
+## [Home](../Readme.md)
 
 ### Objects: A software bundle of related state and behavior, often used to model real world objects.
 Real-world objects share two characteristics: They all have **state** and **behavior**. Dogs have state(`name`,`color`,`breed`,`hungry`)
@@ -100,4 +100,4 @@ The Java platform provides an enormous class library (a set of packages) suitabl
 
 
 ## Sources
-##[The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/concepts/)
+## [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/concepts/)
