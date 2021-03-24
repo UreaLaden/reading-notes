@@ -10,6 +10,8 @@
 
 [Packages and Import](Articles/import.md)
 
+[Object Oriented Programming](Articles/oop-concepts.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
