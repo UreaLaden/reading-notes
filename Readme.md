@@ -14,6 +14,8 @@
 
 [Object Oriented Programming](Articles/oop-concepts.md)
 
+[Linked Lists](Articles/linked-lists.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
