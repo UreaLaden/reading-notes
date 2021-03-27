@@ -25,3 +25,6 @@ connection. At this point the browser begins processing what is received and ren
 page.  
 
 ![TCP](../img/tcp.png) 
+## Source
+
+[Daniel Golant: The HTTP Request Life Cycle](https://dev.to/dangolant/things-i-brushed-up-on-this-week-the-http-request-lifecycle-)
