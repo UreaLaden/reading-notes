@@ -18,6 +18,8 @@
 
 [Interfaces](Articles/interfaces.md)
 
+[SOLID](Articles/solid.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
