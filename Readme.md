@@ -16,6 +16,8 @@
 
 [Linked Lists](Articles/linked-lists.md)
 
+[Interfaces](Articles/interfaces.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
