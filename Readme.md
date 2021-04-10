@@ -24,6 +24,8 @@
 
 [Stacks and Queues](Articles/stacksnqueues.md)
 
+[Spring MVC and Thymeleaf](Articles/spring.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
