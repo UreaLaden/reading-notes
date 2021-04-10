@@ -22,7 +22,7 @@
 
 [Java-WRRC](Articles/java-wrrc.md)
 
-[Stacks and Queueus](Articles/stacksnqueues.md)
+[Stacks and Queues](Articles/stacksnqueues.md)
 
 ## Code 301 - Intermediate Software Development 
 
