@@ -1,5 +1,7 @@
 #Stacks
 
+[Home](../Readme.md)
+
 A stack is a data strucure that consists of `Nodes`. Each `Node` references the next Node in the 
 stack, but does not reference its previous. 
 
