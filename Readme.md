@@ -4,56 +4,56 @@
 
 ## Code 401 - Advanced Software Development 
 
-[Java Basics - Branching Statements](Articles/java-basics.md)
+[Java Basics - Branching Statements](articles/java-basics.md)
 
-[Command Line Basics](Articles/commandLine.md)
+[Command Line Basics](articles/commandLine.md)
 
-[Packages and Import](Articles/import.md)
+[Packages and Import](articles/import.md)
 
-[Exceptions and Scanners](Articles/exceptions.md)
+[Exceptions and Scanners](articles/exceptions.md)
 
-[Object Oriented Programming](Articles/oop-concepts.md)
+[Object Oriented Programming](articles/oop-concepts.md)
 
-[Linked Lists](Articles/linked-lists.md)
+[Linked Lists](articles/linked-lists.md)
 
-[Interfaces](Articles/interfaces.md)
+[Interfaces](articles/interfaces.md)
 
-[SOLID](Articles/solid.md)
+[SOLID](articles/solid.md)
 
-[Java-WRRC](Articles/java-wrrc.md)
+[Java-WRRC](articles/java-wrrc.md)
 
-[Stacks and Queues](Articles/stacksnqueues.md)
+[Stacks and Queues](articles/stacksnqueues.md)
 
-[Spring MVC and Thymeleaf](Articles/spring.md)
+[Spring MVC and Thymeleaf](articles/spring.md)
 
-[Trees](Articles/trees.md)
+[Trees](articles/trees.md)
 
 ## Code 301 - Intermediate Software Development 
 
-[Pair Programming](Articles/pair-programming.md)
+[Pair Programming](articles/pair-programming.md)
 
-[Responsive Web Design](Articles/ResponsiveWebDesign.md)
+[Responsive Web Design](articles/ResponsiveWebDesign.md)
 
-[Regular Expressions](Articles/rwd-regex-notes.md)
+[Regular Expressions](articles/rwd-regex-notes.md)
 
-[Flexbox & Mustache](Articles/read-03_.md) 
+[Flexbox & Mustache](articles/read-03_.md) 
 
-[Deploying to Heroku](Articles/heroku-deployment.md)
+[Deploying to Heroku](articles/heroku-deployment.md)
 
-[Understanding Node.js](Articles/node.md)
+[Understanding Node.js](articles/node.md)
 
-[REST](Articles/rest.md)
+[REST](articles/rest.md)
 
-[Functional Programming](Articles/functional_programming.md)
+[Functional Programming](articles/functional_programming.md)
 
-[Structured Query Language](Articles/sql.md)
+[Structured Query Language](articles/sql.md)
 
-[The Call Stack](Articles/theCallStack.md)
+[The Call Stack](articles/theCallStack.md)
 
-[EJS](Articles/ejs.md)
+[EJS](articles/ejs.md)
 
-[EJS Partials](Articles/ejs-partials.md)
+[EJS Partials](articles/ejs-partials.md)
 
-[Working with Forms](Articles/forms.md)
+[Working with Forms](articles/forms.md)
 
-[Database Normalization](Articles/db_normalization.md)
+[Database Normalization](articles/db_normalization.md)
