@@ -26,6 +26,8 @@
 
 [Spring MVC and Thymeleaf](Articles/spring.md)
 
+[Trees](Articles/trees.md)
+
 ## Code 301 - Intermediate Software Development 
 
 [Pair Programming](Articles/pair-programming.md)
